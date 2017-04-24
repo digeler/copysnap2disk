@@ -3,7 +3,8 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "apiVersion": {
-            "type": "String"
+            "type": "String",
+            "Defaultvalue" :"2016-04-30-preview"
         },
         "name": {
             "type": "String"
