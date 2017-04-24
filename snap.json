@@ -24,7 +24,7 @@
     },
     "resources": [
         {
-            "type": "Microsoft.Compute/snapshots",
+            "type": "Microsoft.Compute/disks",
             "name": "[parameters('name')]",
             "apiVersion": "[parameters('apiVersion')]",
             "location": "[parameters('location')]",
